@@ -1,7 +1,7 @@
 
   # InGrow
 
-  This is a code bundle for InGrow. The original project is available at https://www.figma.com/design/mh3SmsmZbgOopaT9rnu0Iv/InGrow.
+  This is a code bundle for InGrow.
 
   ## Running the code
 
